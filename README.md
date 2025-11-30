@@ -14,6 +14,9 @@
 - [ ] Matlab
 - [ ] Linux
 - [ ] Ubuntu
-- [ ] **RoboCon**
+- [ ] AprilTag
+- [ ] RoboCon
+- [ ] stm32
+- [ ] soildworks
 ---
 [~~My Blog~~](https://www.luogu.com.cn/blog/l-123-456-789-0-7a/)
